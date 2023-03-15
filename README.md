@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Code-Dramatist-0/Code-Dramatist-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 👋 Hi, I’m @Code-Dramatist
+
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-Dramatist-0)
